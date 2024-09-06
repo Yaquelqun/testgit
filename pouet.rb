@@ -3,10 +3,14 @@ def pouet
 end
 
 def second_method
-  puts 'second hola'
+
 end
 
 def third-method
-  puts 'third method'
   puts 'wat?'
+end
+
+
+def new_method
+  puts 'new method'
 end
