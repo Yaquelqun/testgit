@@ -1,3 +1,3 @@
 def pouet
-  puts 'pouet'
+  puts 'test'
 end
