@@ -3,5 +3,5 @@ def pouet
 end
 
 def second_method
-  puts 'second method'
+  puts 'second hola'
 end
