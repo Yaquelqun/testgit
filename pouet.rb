@@ -1,5 +1,5 @@
 def pouet
-  puts 'test'
+  puts 'hola'
 end
 
 def second_method
