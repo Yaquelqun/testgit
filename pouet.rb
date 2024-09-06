@@ -8,4 +8,5 @@ end
 
 def third-method
   puts 'third method'
+  puts 'wat?'
 end
